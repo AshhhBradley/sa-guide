@@ -1,0 +1,22 @@
+b, strong {
+    font-weight: 600;
+}
+
+a.nav-list-link::before {
+    content: "- ";
+}
+
+.site-logo {
+    h4 {
+        text-align: right;
+        margin-top: 8px;
+        font-weight: 600;
+    }
+}
+
+@media (min-width: 50rem) {
+    .site-title {
+        padding-right: 1rem;
+        padding-left: 1rem;
+      }
+}
