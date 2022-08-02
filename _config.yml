@@ -34,8 +34,8 @@ url: "https://wiki.survivaladventures.net" # the base hostname & protocol for yo
 baseurl: ""
 
 # Build settings
-theme: just-the-docs
-# remote_theme: just-the-docs/just-the-docs
+# theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 color_scheme: custom_scheme
 
 # Enable or disable the site search
