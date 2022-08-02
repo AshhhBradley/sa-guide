@@ -5,9 +5,6 @@ nav_order: 6
 permalink: /shops/
 ---
 
-last updated on {{ page.last_modified_at | date: '%d %b %Y' }}
-{: .fs-2 .fw-300 .text-right }
-
 # Chest Shops
 A more detailed guide can be found here: [Chest Shop Wiki](https://github.com/TheClowner/ccshop-support/wiki)
 {: .fs-5 .fw-300 }

@@ -5,9 +5,6 @@ nav_order: 1
 permalink: /commands/
 ---
 
-last updated on {{ page.last_modified_at | date: '%d %b %Y' }}
-{: .fs-2 .fw-300 .text-right }
-
 # Commands
 This section will cover the majority of the most commonly used commands and others have been moved into their own categories to expand on their child commands.
 {: .fs-5 .fw-300 }

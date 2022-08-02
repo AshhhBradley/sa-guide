@@ -5,9 +5,6 @@ nav_order: 9
 permalink: /misc/
 ---
 
-last updated on {{ page.last_modified_at | date: '%d %b %Y' }}
-{: .fs-2 .fw-300 .text-right }
-
 # Miscellaneous
 
 {: .no_toc }

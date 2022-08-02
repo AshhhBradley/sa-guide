@@ -5,9 +5,6 @@ nav_order: 5
 permalink: /rules/
 ---
 
-last updated on {{ page.last_modified_at | date: '%d %b %Y' }}
-{: .fs-2 .fw-300 .text-right }
-
 # Server Rules
 This section will cover the the rules of the server and expand into more detail than what the simple rules command can provide.
 {: .fs-5 .fw-300 }

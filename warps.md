@@ -5,9 +5,6 @@ nav_order: 6
 permalink: /warps/
 ---
 
-last updated on {{ page.last_modified_at | date: '%d %b %Y' }}
-{: .fs-2 .fw-300 .text-right }
-
 # Player Warps
 Player warps are a great way to show off your builds, make a public shop or even just for a public area projects. You can use the command `/warps` or `/pw` to view the warps menu.
 {: .fs-5 .fw-300 }

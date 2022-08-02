@@ -5,9 +5,6 @@ nav_order: 3
 permalink: /blackmarket/
 ---
 
-last updated on {{ page.last_modified_at | date: '%d %b %Y' }}
-{: .fs-2 .fw-300 .text-right }
-
 # Black Market
 This is the servers sell menu, you can access it using `/buyer` or by visiting spawn using `/pw blackmarket`. From here you can sell various items in the game for a range of different prices that change every hour.
 {: .fs-5 .fw-300 }

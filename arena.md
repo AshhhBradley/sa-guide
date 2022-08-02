@@ -5,9 +5,6 @@ nav_order: 6
 permalink: /arena/
 ---
 
-last updated on {{ page.last_modified_at | date: '%d %b %Y' }}
-{: .fs-2 .fw-300 .text-right }
-
 # Mob Arena
 The mob arena is a Player vs Environment mini-game on the server which you can join using the `/ma join <arena>` command. This involves beating waves of mobs up to a total of 30 times until you reach the boss. Multiple players can join the arena, up to 4 can join the mansion arena which is the free to play arena. Up to 10 players can join the mountain arena which costs 100,000 in game money to begin.
 {: .fs-5 .fw-300 }

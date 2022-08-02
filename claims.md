@@ -5,9 +5,6 @@ nav_order: 6
 permalink: /claims/
 ---
 
-last updated on {{ page.last_modified_at | date: '%d %b %Y' }}
-{: .fs-2 .fw-300 .text-right }
-
 # Lands
 A more detailed list of commands can be found here: [Lands Wiki](https://wiki.helpch.at/glares-plugins/guilds-w.i.p-migration/commands-and-permissions)
 {: .fs-5 .fw-300 }

@@ -21,24 +21,22 @@
 logo: "/assets/images/SA.webp"
 logotext: "Everything about SurvivalAdventures"
 title: SurvivalAdventures Guide
+footer_content: ""
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The ultimate guide to SurvivalAdventures.
-domain: "ashhhbradley.github.io"
+domain: "wiki.survivaladventures.net"
 baseurl: "sa-guide" # the subpath of your site, e.g. /blog
-url: "https://ashhhbradley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wiki.survivaladventures.net" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
-# baseurl: ""
+baseurl: ""
 
 # Build settings
-# theme: just-the-docs
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
+# remote_theme: just-the-docs/just-the-docs
 color_scheme: custom_scheme
-plugins:
-  - jekyll-last-modified-at
-#   - jekyll-feed
 
 # Enable or disable the site search
 # Supports true (default) or false

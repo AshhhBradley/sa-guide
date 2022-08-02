@@ -5,9 +5,6 @@ nav_order: 4
 permalink: /tokenshop/
 ---
 
-last updated on {{ page.last_modified_at | date: '%d %b %Y' }}
-{: .fs-2 .fw-300 .text-right }
-
 # Token Shop
 
 {: .no_toc }

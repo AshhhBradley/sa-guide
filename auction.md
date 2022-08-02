@@ -5,9 +5,6 @@ nav_order: 2
 permalink: /auction/
 ---
 
-last updated on {{ page.last_modified_at | date: '%d %b %Y' }}
-{: .fs-2 .fw-300 .text-right }
-
 # Auction House
 This is the servers player shop, you can access it using `/ah` and you can list items to sell by using `/ah sell <price>` while holding the item you wish to sell.
 {: .fs-5 .fw-300 }
